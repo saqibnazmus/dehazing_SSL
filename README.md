@@ -1,1 +1,1 @@
-# dehazing_SSL
+# A self-supervised single image dehazing
